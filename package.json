@@ -1,0 +1,20 @@
+{
+  "name": "reacttest10072020",
+  "version": "1.0.0",
+  "description": "Duda test 10/7/2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrEverymorning/reacttest10072020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrEverymorning/reacttest10072020/issues"
+  },
+  "homepage": "https://github.com/MrEverymorning/reacttest10072020#readme"
+}
